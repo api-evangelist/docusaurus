@@ -1,0 +1,30 @@
+aid: docusaurus
+name: Docusaurus
+description: >-
+  Docusaurus is an open-source static site generator built by Meta for
+  creating documentation websites. It is powered by React and supports
+  MDX, versioning, internationalization, search, and plugins, making it
+  a popular choice for open-source project documentation and developer portals.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Documentation
+  - Static Site Generator
+  - React
+  - Open Source
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/docusaurus/refs/heads/main/apis.yml
+created: '2026-03-16'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://docusaurus.io/
+  - type: Documentation
+    url: https://docusaurus.io/docs
+  - type: GitHub Organization
+    url: https://github.com/facebook/docusaurus
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
