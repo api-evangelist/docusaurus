@@ -15,16 +15,40 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/docusaurus/refs/heads/main/apis.yml
 created: '2026-03-16'
-modified: '2026-03-16'
+modified: '2026-03-25'
 specificationVersion: '0.19'
-apis: []
+apis:
+  - aid: docusaurus:docusaurus
+    name: Docusaurus
+    description: >-
+      Docusaurus is an open-source static site generator built by Meta for
+      creating documentation websites with React, MDX, versioning, and
+      internationalization support.
+    humanURL: https://docusaurus.io
+    tags:
+      - Documentation
+      - Static Site Generator
+      - React
+    properties:
+      - type: Documentation
+        url: https://docusaurus.io/docs
+      - type: Getting Started
+        url: https://docusaurus.io/docs/installation
+      - type: GitHub Repository
+        url: https://github.com/facebook/docusaurus
 common:
   - type: Website
-    url: https://docusaurus.io/
+    url: https://docusaurus.io
   - type: Documentation
     url: https://docusaurus.io/docs
   - type: GitHub Organization
     url: https://github.com/facebook/docusaurus
+  - type: Blog
+    url: https://docusaurus.io/blog
+  - type: Community
+    url: https://docusaurus.io/community/support
+  - type: Showcase
+    url: https://docusaurus.io/showcase
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
