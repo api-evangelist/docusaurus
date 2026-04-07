@@ -9,9 +9,9 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Documentation
-  - Static Site Generator
-  - React
   - Open Source
+  - React
+  - Static Site Generator
 url: >-
   https://raw.githubusercontent.com/api-evangelist/docusaurus/refs/heads/main/apis.yml
 created: '2026-03-16'
@@ -27,8 +27,8 @@ apis:
     humanURL: https://docusaurus.io
     tags:
       - Documentation
-      - Static Site Generator
       - React
+      - Static Site Generator
     properties:
       - type: Documentation
         url: https://docusaurus.io/docs
