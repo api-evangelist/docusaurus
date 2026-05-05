@@ -1,0 +1,13 @@
+{
+  "repo": "docusaurus",
+  "feeds": [
+    {
+      "source": "https://docusaurus.io/blog",
+      "feed_url": "https://docusaurus.io/blog/rss.xml",
+      "saved": 10,
+      "title": "Docusaurus Blog"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:27:10Z"
+}
