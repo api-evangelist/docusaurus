@@ -35,13 +35,13 @@ apis:
     properties:
       - type: Documentation
         url: https://docusaurus.io/docs
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docusaurus.io/docs/installation
       - type: CLI
         url: https://docusaurus.io/docs/cli
       - type: Plugins
         url: https://docusaurus.io/docs/api/plugins
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/facebook/docusaurus
       - type: Showcase
         url: https://docusaurus.io/showcase
@@ -50,7 +50,7 @@ common:
     url: https://docusaurus.io
   - type: Documentation
     url: https://docusaurus.io/docs
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/facebook/docusaurus
   - type: Blog
     url: https://docusaurus.io/blog
