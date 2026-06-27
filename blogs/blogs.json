@@ -2,8 +2,8 @@
   "repo": "docusaurus",
   "feeds": [
     {
-      "source": "https://docusaurus.io/blog/feed.xml",
-      "feed_url": "https://docusaurus.io/blog/feed.xml",
+      "source": "https://docusaurus.io/blog/rss.xml",
+      "feed_url": "https://docusaurus.io/blog/rss.xml",
       "title": "",
       "saved": 0,
       "method": "feed"
@@ -17,5 +17,5 @@
     }
   ],
   "post_count": 30,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T12:03:07Z"
 }
