@@ -46,6 +46,8 @@ apis:
       - type: Showcase
         url: https://docusaurus.io/showcase
 common:
+  - type: DomainSecurity
+    url: security/docusaurus-domain-security.yml
   - type: Website
     url: https://docusaurus.io
   - type: Documentation
