@@ -58,6 +58,17 @@ apis:
       - type: Showcase
         url: https://docusaurus.io/showcase
 common:
+  - type: IssueTracker
+    url: https://github.com/facebook/docusaurus/issues
+  - type: Releases
+    url: https://github.com/facebook/docusaurus/releases
+  - type: CodeOfConduct
+    url: https://github.com/facebook/docusaurus/blob/main/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/facebook/docusaurus/blob/main/CONTRIBUTING.md
+  - type: License
+    name: MIT
+    url: https://github.com/facebook/docusaurus/blob/main/LICENSE
   - type: DomainSecurity
     url: security/docusaurus-domain-security.yml
   - type: Website
