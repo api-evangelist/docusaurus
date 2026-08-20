@@ -21,6 +21,12 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/docusaurus.png
 tags:
   - Documentation
+  - Open-Source
+  - React
+  - Static Site Generator
+  - Developer Portals
+tags_raw:
+  - Documentation
   - Open Source
   - React
   - Static Site Generator
