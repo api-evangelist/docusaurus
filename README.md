@@ -1,4 +1,4 @@
-# Docusaurus (docusaurus)
+# Docusaurus
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,59 +64,104 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Docusaurus is an open-source static site generator built by Meta for creating documentation websites. It is powered by React and supports MDX, versioning, internationalization, search, and a plugin ecosystem, making it a popular choice for open-source project documentation and developer portals.
+Docusaurus is an open-source static site generator built by Meta for creating documentation websites. Powered by React, it supports MDX, versioning, internationalization, search, and a plugin ecosystem, making it a popular choice for open-source project documentation and developer portals.
 
-Note: Docusaurus is a build tool and static site framework. It does not expose an HTTP API; it is consumed through its CLI, configuration, and plugin authoring interfaces.
+**Areas:** Documentation · Open Source · React · Static Site Generator · Developer Portal
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/docusaurus/refs/heads/main/apis.yml)
+## Docusaurus on APIs.io
 
-## Scope
+Everything profiled for Docusaurus is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/docusaurus/](https://apis.io/providers/docusaurus/)** — or go straight to one of the APIs or properties below.
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** Open Source
+### APIs (1)
 
-## Tags
+- [Docusaurus](https://apis.io/apis/docusaurus/docusaurus/) — Docusaurus is an open-source static site generator for documentation sites with React, MDX, versioning, i18n, and a plugin architecture. Docusaurus does not…
 
-- Documentation
-- Static Site Generator
-- React
-- Open Source
-- Developer Portals
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2026-03-16
-- **Modified:** 2026-04-28
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
-### Docusaurus
+- [Docusaurus Domain Security](https://apis.io/security/docusaurus/docusaurus-domain-security/)
 
-The Docusaurus framework: a React-powered static site generator for docs, with MDX, i18n, versioning, and a plugin architecture.
+#### Plans and pricing (1)
 
-**Human URL:** [https://docusaurus.io](https://docusaurus.io)
+Published plans, tiers and prices.
 
-#### Properties
+- [Docusaurus Plans Pricing](https://apis.io/plans/docusaurus/docusaurus-plans-pricing/)
 
+#### Rate limits (1)
+
+Published request limits.
+
+- [Docusaurus Rate Limits](https://apis.io/rate-limits/docusaurus/docusaurus-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Docusaurus Finops](https://apis.io/finops/docusaurus/docusaurus-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://docusaurus.io)
 - [Documentation](https://docusaurus.io/docs)
-- [Getting Started](https://docusaurus.io/docs/installation)
-- [CLI](https://docusaurus.io/docs/cli)
-- [Plugins](https://docusaurus.io/docs/api/plugins)
-- [GitHub Repository](https://github.com/facebook/docusaurus)
-- [Showcase](https://docusaurus.io/showcase)
-
-## Common Properties
-
-- [Website](https://docusaurus.io/)
-- [Documentation](https://docusaurus.io/docs)
-- [GitHub Organization](https://github.com/facebook/docusaurus)
 - [Blog](https://docusaurus.io/blog)
-- [Community](https://docusaurus.io/community/support)
-- [Showcase](https://docusaurus.io/showcase)
+- [GitHub](https://github.com/facebook/docusaurus)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 20.8** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/docusaurus/](https://apis.io/providers/docusaurus/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Docusaurus: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/docusaurus/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
